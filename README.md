@@ -1,3 +1,6 @@
+<img width="450" height="447" alt="Screenshot 2026-06-14 234149" src="https://github.com/user-attachments/assets/6c202623-5b29-45cd-a73b-e3c54c2b607e" />
+
+
 # 🔋 Solid-State Battery
 
 ## Project Description
